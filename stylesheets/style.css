@@ -1,0 +1,24 @@
+:root {
+
+}
+.navbar-branding {
+  color: white;
+  font-size: 22px;
+  margin-left: 36px;
+}
+div p {
+  font-size: 38px;
+  font-weight: 700;
+  text-align: center
+}
+div h3 {
+  text-align: center;
+  padding: 0px
+}
+li {
+  padding-right: 14px;
+}
+#log {
+  padding-left:30px;
+  padding-right:30px;
+}
